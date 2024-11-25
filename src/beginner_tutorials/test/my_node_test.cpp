@@ -9,7 +9,6 @@
  *          message broadcasting by the PublisherNode and related behaviors.
  */
 #include <chrono>  // NOLINT(build/c++11)
-
 #include <catch_ros2/catch_ros2.hpp>
 #include <rclcpp/executors.hpp>
 #include <rclcpp/logging.hpp>
